@@ -1,0 +1,6 @@
+# Used in notebooks: pandas, matplotlib
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Jupyter / VS Code notebook kernel (not imported in code, but needed to run .ipynb)
+ipykernel>=6.25.0
